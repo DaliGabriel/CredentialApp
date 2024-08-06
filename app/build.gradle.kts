@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.credential"
+    namespace = "com.dali.credential"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.credential"
+        applicationId = "com.dali.credential"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
