@@ -29,7 +29,7 @@ import com.dali.credential.ui.theme.MyApplicationTheme
 import java.io.File
 
 class MainActivity : ComponentActivity() {
-    //TODO: implement cut image after the photo was taken and improve the UI
+    //TODO: implement cut image after the photo was taken to the image was selected and improve the UI
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
