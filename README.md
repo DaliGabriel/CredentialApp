@@ -1,6 +1,11 @@
 # Simple Image Uploader App
 
-This is a basic Android application built with Jetpack Compose that allows users to upload and display an image. It offers the flexibility to capture a new picture using the device camera or select an existing one from the gallery.
+<div align="center">
+  <img src="assets/Screenshot_20240806_104638.png" width="150">
+  <img src="assets/Screenshot_20240806_104611.png" width="150">
+</div>
+
+A simple but powerful Android app for quickly uploading and viewing images, built with modern Jetpack Compose.
 
 ## Features:
 
@@ -10,15 +15,16 @@ This is a basic Android application built with Jetpack Compose that allows users
 
 ## How it Works:
 
-1. **Image Selection:** The app provides two buttons for image selection: "Take Photo" and "Upload Photo". 
-2. **Permissions:** Before accessing the camera or gallery, the app requests the necessary permissions.
-3. **Image Storage:** Once an image is selected, it's copied to the app's private storage for persistence.
-4. **Image Display:** The selected image is then displayed in the app's main view.
+1. **Choose your source:** Tap "Take Photo" to use your camera or "Upload Photo" to browse your gallery.
+2. **Grant Permissions:** The app will ask for necessary permissions to access your camera or storage.
+3. **View Your Image:** The selected image will be displayed immediately, and it's saved for the next time you open the app!
+
+## Download
+
+Get the app now!
+
+[Download Link](https://github.com/DaliGabriel/CredentialApp/raw/master/Credential.apk) 
 
 ## Open Source Notice:
 
 This app is open source and free to use, modify, and distribute under the terms of the license provided in this repository. 
-
-
-
-## Download the app following this <a href="https://github.com/DaliGabriel/CredentialApp/raw/master/Credential.apk"> Link </a>
